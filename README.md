@@ -2,7 +2,7 @@
 
 This is a custom implementation of the `printf` function in C, completed as part of the ALX School curriculum. The `printf` function is used to format and print output to the standard output stream (stdout) in C. This custom implementation adheres to the requirements provided by ALX School, including using allowed editors, compiling with specific options, following the Betty style, and not using global variables.
 
-# AUTHORS
+## AUTHORS
 
 - [Houssam Mrabet](https://github.com/HoussamMrabet) 👨‍💻
 - [Mahmoud Khairi](https://github.com/Mahmoud-Khairi) 👨‍💻
